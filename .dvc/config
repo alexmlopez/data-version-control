@@ -1,0 +1,4 @@
+[core]
+    remote = remote_dvc
+['remote "remote_dvc"']
+    url = /media/user/repository1/dvc_remote
