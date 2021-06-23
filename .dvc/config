@@ -1,4 +1,0 @@
-[core]
-    remote = remote_storage
-['remote "remote_storage"']
-    url = /media/user/repository1/dvc_remote
